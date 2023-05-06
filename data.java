@@ -7,3 +7,13 @@ int age; // Stores from +2,147,483,647 to -2,147,483,648
 // A long type is a 64 bit signed integer
 long age; // Stores from +9,223,372,036,854,775,807 to -9,223,372,036,854,775,808
 
+// Floating points
+
+// Assigning a float to a radius of a circle
+
+public class Type_Floats {
+    public static void main(String[] args) {
+        float radius = 8.56f;
+        System.out.println(radius);
+    }
+}
