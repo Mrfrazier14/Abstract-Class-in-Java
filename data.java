@@ -18,6 +18,8 @@ public class Type_Floats {
         System.out.println(radius);
     }
 }
+
+// Floating but double version 
 // Assigning a double to a radius of a circle
 
 public class Type_Double {
