@@ -65,3 +65,12 @@ public class Type_Null
      
    }
 }
+
+
+// This is all size for the data types we will be using in JAVA 
+Data Type 	Size in bytes
+Integer: 	4 bytes
+Float: 	    4 bytes
+Double: 	8 bytes
+Character: 	2 bytes
+Boolean:	1 byte
