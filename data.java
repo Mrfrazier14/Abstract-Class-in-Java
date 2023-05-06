@@ -54,3 +54,14 @@ public class Type_Bool {
 
     }
 }
+
+// Null data types
+public class Type_Null
+{
+   public static void main(String[] args)
+   {
+     String line;
+     System.out.println(line);
+     
+   }
+}
