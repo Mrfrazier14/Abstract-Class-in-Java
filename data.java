@@ -45,3 +45,12 @@ public class Type_Char {
         System.out.println(number);
     }
 }
+
+//Boolean Data type Examples
+public class Type_Bool {
+    public static void main(String[] args) {
+        boolean part_time = false;
+        System.out.println(part_time);
+
+    }
+}
