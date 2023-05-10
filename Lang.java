@@ -26,6 +26,7 @@ class log_op {
         System.out.println(x > y);
 
         System.out.println("x is less than y");
+        
         System.out.println(x < y);
 
         System.out.println("x is greater than or equal to y");
