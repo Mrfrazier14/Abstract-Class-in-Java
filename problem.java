@@ -7,3 +7,16 @@ class exercise {
         return answer;
     }
 }
+
+class exercise {
+
+    public static boolean exercise_two(boolean x, boolean y) {
+        boolean answer;
+        boolean not_x = !x;
+        boolean xor_x = not_x ^ x;
+        boolean and_xy = xor_x && y;
+        answer = !and_xy;
+
+        return answer;
+    }
+}
