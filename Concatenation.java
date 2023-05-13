@@ -55,3 +55,15 @@ class substring_ {
         System.out.println(choice.substring(0, 6));
     }
 }
+// Understanding the two implementations
+class split_string {
+    public static void main(String[] args) {
+        String greet = "HeLlo WoRld";
+
+        //Returns new string in which all characters are converted to upper case
+        System.out.println(greet.toUpperCase());
+
+        //Returns new string in which all characters are converted to lower case
+        System.out.println(greet.toLowerCase());
+    }
+}
