@@ -20,3 +20,9 @@ class exercise {
         return answer;
     }
 }
+public class HelloYou {
+  public static void main(String[] args) { 
+    
+    
+ System.out.println("Hello World"); }
+}
