@@ -60,3 +60,14 @@ class conditional_exp {
         System.out.println("Answer using if-else: " + answer);
     }
 }
+class even_odd {
+    public static String evenodd(int x) {
+        String answer;
+        if (x % 2 == 0) {
+            answer = "even";
+        } else {
+            answer = "odd";
+        }
+        return answer;
+    }
+}
