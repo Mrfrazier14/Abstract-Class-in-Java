@@ -18,7 +18,7 @@ class concat {
 
 //Compairing Strings 
 class concat {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         String one = "Hello";
         String two = "World";
         String lower = "hello";
